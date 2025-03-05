@@ -1,0 +1,14 @@
+name: gaussiansplatting
+dependencies:
+  - python=3.11
+  - pytorch
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - opencv
+  - colmap
+
