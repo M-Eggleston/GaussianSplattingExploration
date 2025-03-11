@@ -1,0 +1,11 @@
+name: cudagaussiansplatting
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - opencv
